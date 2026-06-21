@@ -13,12 +13,6 @@ My first console calculator in C++.
 | `%` | Остаток от деления |
 | `^` | Возведение в степень |
 
-## Пример
+## Пример работы
 
-```bash
-Enter expression: 2 + 2
-Result: 4
-
-<p align="center">
-  <img width="500" src="images/calculator.png" alt="Скриншот работы калькулятора" />
-</p>
+![Скриншот работы калькулятора](images/calculator.png)
