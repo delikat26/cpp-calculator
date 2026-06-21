@@ -16,3 +16,17 @@ My first console calculator in C++.
 ## Пример работы
 
 ![Скриншот работы калькулятора](images/calculator.png)
+
+## Запуск
+
+Скомпилируйте программу с помощью компилятора GCC:
+
+```bash
+g++ "first calculator.cpp" -o calculator
+```
+
+Затем запустите:
+
+```bash
+./calculator
+```
