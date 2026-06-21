@@ -1,2 +1,20 @@
 # cpp-calculator
-My first console calculator in C++
+
+My first console calculator in C++.
+
+## Операции
+
+| Символ | Описание |
+|--------|----------|
+| `+` | Сложение |
+| `-` | Вычитание |
+| `*` | Умножение |
+| `/` | Деление |
+| `%` | Остаток от деления |
+| `^` | Возведение в степень |
+
+## Пример
+
+```bash
+Enter expression: 2 + 2
+Result: 4
